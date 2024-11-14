@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
