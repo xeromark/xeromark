@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&theme=dark&show_icons=true&hide_border=true&layout=compact)
