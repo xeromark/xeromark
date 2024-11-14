@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello👋! My name is Omar and I study Computer and telecommunications engineer. I'm usually very busy with my own proyects but I like to learn new algorithms 💪.
 
 <!--
 **xeromark/xeromark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
