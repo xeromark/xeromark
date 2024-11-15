@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Python-Dark.svg" height="40" style="max-width: 100%;"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" height="40" style="max-width: 100%;"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg" height="40" style="max-width: 100%;"></a>
-  <a href="https://www.overleaf.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/overleaf.svg" height="40" style="max-width: 100%;"></a>
+  <a href="https://es.overleaf.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/overleaf.svg" height="40" style="max-width: 100%;"></a>
 
   
 </p>
