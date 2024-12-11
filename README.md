@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,react,html,css,nodejs,git,docker,c,cs,cpp,postgres,mysql,cassandra,nginx,blender,unreal,latex)](https://skillicons.dev)
 
 
-![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&theme=black&show_icons=true&hide_border=true&layout=compact)
+![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 ![xeromark's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xeromark&langs_count=8)
